@@ -4,3 +4,4 @@
 # Fascinated by Machine Learning
 # Passion in community work
 # Hobby of reading novels
+[my image](GDC_0517.jpg)
